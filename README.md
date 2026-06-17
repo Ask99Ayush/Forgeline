@@ -1,4 +1,4 @@
-# Forgeline
+# ForgeLine
 
 Production-Grade CI/CD Platform for Automated Container Deployments on AWS ECS Fargate
 
