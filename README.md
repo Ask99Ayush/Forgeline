@@ -1,4 +1,10 @@
-# Automated CI/CD Pipeline using Jenkins, Docker, AWS ECS (Fargate) & Application Load Balancer
+# Forgeline
+
+Production-Grade CI/CD Platform for Automated Container Deployments on AWS ECS Fargate
+
+Forgeline is a cloud-native CI/CD platform that automates the complete software delivery lifecycle from source code commits to production deployments. The platform integrates GitHub, Jenkins, Docker, Amazon ECR, AWS ECS Fargate, and Application Load Balancer to deliver secure, scalable, and zero-downtime application releases.
+
+Built around real-world DevOps practices, Forgeline demonstrates automated build pipelines, container image management, deployment orchestration, monitoring, logging, and operational reliability in a production-style AWS environment.
 
 ## Complete Production-Grade Implementation Guide
 
